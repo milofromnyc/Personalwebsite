@@ -64,6 +64,9 @@ body{
 
 
 }
+#pop{
+	width: 100%;
+}
 .background{
 	background-color: black; 
 }
