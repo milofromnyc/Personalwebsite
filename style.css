@@ -1,0 +1,90 @@
+.nav{
+	 width: 100%; 
+	 margin: 0 auto;
+	 overflow:hidden; 
+}
+nav a: hover{
+	background: #5d82cf;
+  	text-decoration: none; 
+}
+nav ul{
+	list-style: none;
+  	color: white;
+  	width: 100%; 
+  	position: fixed;
+  	top: 0%; 
+  	background-color: black; 
+  	z-index: 55; 
+  	margin: 0;
+  	padding: 0;
+}
+
+nav ul li{
+	float: left; 
+  	width: 8.97%; 
+  	padding: 0;
+  	text-align: center;
+  	font-size: 95%;
+}
+
+nav ul li a{
+	 display: block; 
+ 	 color: #EEE;  
+ 	 padding: 5.5% 0%;
+}
+a{
+	text-decoration: none;
+  	font-family: "Century Gothic", 
+  }
+body{
+	background-color: black;
+	color: white;
+	text-align: center;
+  	padding: 10;
+  	margin:0;
+  
+}
+
+
+}
+.font{
+	color:white;
+}
+
+.blunt{
+	text-align: center;
+	font-size: 50px;
+	padding-top: 25px;
+}
+#m{
+	width: 1024px;
+	height: 815px;
+	background-color: solid black;
+	text-align: center;
+
+
+}
+.background{
+	background-color: black; 
+}
+#photo1{
+	border: 1px solid black;
+	width: 100%;
+}
+.row{
+
+}
+
+.container-fluid{
+	padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 1px;
+
+}
+.l{
+	text-align: center;
+	font-size: 30px;
+
+}
